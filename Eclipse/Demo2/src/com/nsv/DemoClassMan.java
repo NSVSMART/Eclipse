@@ -3,7 +3,7 @@ package com.nsv;
 public class DemoClassMan {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Hello Srinivas Demo2 Changed Here.....");
 
 	}
 
